@@ -19,6 +19,12 @@
 ![Google Sites](https://img.shields.io/badge/Built_with-Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Built_with-Dreamweaver-0078D7?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white)
 
+[![Windows Terminal](https://img.shields.io/badge/Terminal-Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://docs.microsoft.com/en-us/windows-terminal/)
+[![Shell Script](https://img.shields.io/badge/Scripting-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/Tool-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![Linux](https://img.shields.io/badge/Operating_System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Operating_System-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+
 ![Microsoft Office](https://img.shields.io/badge/Built_with-Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Word](https://img.shields.io/badge/Tool-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Excel](https://img.shields.io/badge/Tool-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
