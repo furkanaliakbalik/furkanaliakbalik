@@ -48,6 +48,8 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Tool-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Tool-Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Adobe XD](https://img.shields.io/badge/Tool-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)
+![Canva](https://img.shields.io/badge/Tool-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ![Microsoft Office](https://img.shields.io/badge/Built_with-Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Word](https://img.shields.io/badge/Tool-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
