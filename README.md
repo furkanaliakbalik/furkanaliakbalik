@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Artificial intelligence<br>🤝 I’m looking for help with <br>🌱 I’m currently learning machine learning<br>💬 Ask me any software code<br>⚡ Fun fact
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ## 🌐 Socials:
