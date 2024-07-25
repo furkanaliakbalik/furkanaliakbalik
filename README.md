@@ -19,6 +19,7 @@
 ![Google Sites](https://img.shields.io/badge/Built_with-Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Built_with-Dreamweaver-0078D7?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white)
 
+![Linux Terminal](https://img.shields.io/badge/Terminal-Linux_Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
 [![Windows Terminal](https://img.shields.io/badge/Terminal-Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://docs.microsoft.com/en-us/windows-terminal/)
 [![Shell Script](https://img.shields.io/badge/Scripting-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/Tool-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
