@@ -13,12 +13,6 @@
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![VB](https://img.shields.io/badge/Language-VB.NET-722F37?style=for-the-badge&logo=visual-studio&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 [![MSSQL](https://img.shields.io/badge/Database-Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Access](https://img.shields.io/badge/Database-Microsoft_Access-00A4E4?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
@@ -49,7 +43,6 @@
 [![Adobe Premiere Pro](https://img.shields.io/badge/Tool-Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Adobe XD](https://img.shields.io/badge/Tool-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 ![Canva](https://img.shields.io/badge/Tool-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 
 ![Microsoft Office](https://img.shields.io/badge/Built_with-Microsoft_Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Word](https://img.shields.io/badge/Tool-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
