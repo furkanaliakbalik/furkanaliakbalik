@@ -28,13 +28,13 @@
 ![Dreamweaver](https://img.shields.io/badge/Built_with-Dreamweaver-0078D7?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white)
 
 ![Computertechnik (Techniker)](https://img.shields.io/badge/Certification-Computertechnik%20(Techniker)-0056D2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8ZyBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWRhc2hlcmVkPSIxIiBzdHJva2Utb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDVjMiI+CiAgICA8cGF0aCBkPSJNNTAsNDBBMTAsMCAwLDUwIDAsMEExMCw3MywwLDAsMCw1MCw1MCIgc3Ryb2tlLWxpbmVhcD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWRhc2hlcmVkPSIxIiBzdHJva2UtY29sb3I9IiMwMDVjMiIvPgogICAgPC9nPjwvc3ZnPg==)
-[![PowerShell](https://img.shields.io/badge/Tool-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![Linux](https://img.shields.io/badge/Operating_System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Operating_System-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 ![MacBook](https://img.shields.io/badge/Platform-MacBook-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Terminal-Linux_Terminal-000000?style=for-the-badge&logo=linux&logoColor=white)
 [![Windows Terminal](https://img.shields.io/badge/Terminal-Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://docs.microsoft.com/en-us/windows-terminal/)
 [![Shell Script](https://img.shields.io/badge/Scripting-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/Tool-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 [![Adobe](https://img.shields.io/badge/Platform-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 [![Adobe Acrobat](https://img.shields.io/badge/Tool-Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://acrobat.adobe.com/)
