@@ -26,6 +26,7 @@
 ![WordPress](https://img.shields.io/badge/Built_with-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Google Sites](https://img.shields.io/badge/Built_with-Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Built_with-Dreamweaver-0078D7?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white)
+![Nicepage](https://img.shields.io/badge/Built_with-Nicepage-009CDE?style=for-the-badge&logo=nicepage&logoColor=white)
 
 ![Computertechnik (Techniker)](https://img.shields.io/badge/Certification-Computertechnik%20(Techniker)-0056D2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8ZyBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWRhc2hlcmVkPSIxIiBzdHJva2Utb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDVjMiI+CiAgICA8cGF0aCBkPSJNNTAsNDBBMTAsMCAwLDUwIDAsMEExMCw3MywwLDAsMCw1MCw1MCIgc3Ryb2tlLWxpbmVhcD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxMCIgc3Ryb2tlLWRhc2hlcmVkPSIxIiBzdHJva2UtY29sb3I9IiMwMDVjMiIvPgogICAgPC9nPjwvc3ZnPg==)
 [![Linux](https://img.shields.io/badge/Operating_System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
