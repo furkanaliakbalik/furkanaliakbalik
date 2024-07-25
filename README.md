@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Database-Access-A4373A?style=for-the-badge&logo=flat&logo=microsoft-access&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?style=for-the-badge&logo=flat&logo=microsoft-sql-server&logoColor=white)
 
