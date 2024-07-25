@@ -18,6 +18,11 @@
 [![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Access](https://img.shields.io/badge/Database-Microsoft_Access-00A4E4?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
 
+[![CSS](https://img.shields.io/badge/Language-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 ![Wix](https://img.shields.io/badge/Built_with-Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Built_with-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Google Sites](https://img.shields.io/badge/Built_with-Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
