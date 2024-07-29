@@ -57,8 +57,6 @@
 ![OneNote](https://img.shields.io/badge/Tool-OneNote-0078D4?style=for-the-badge&logo=microsoft-onenote&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=furkanaliakbalik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furkanaliakbalik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanaliakbalik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
